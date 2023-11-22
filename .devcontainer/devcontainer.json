@@ -1,0 +1,26 @@
+{
+	"name": "Aula-DS-Trab2-FIFA_Analysis",
+
+	"image": "mcr.microsoft.com/devcontainers/python:1-3.11-bookworm",
+	"features": {
+		"ghcr.io/devcontainers-contrib/features/pipx-package:1": {},
+		"ghcr.io/devcontainers-contrib/features/poetry:2": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-toolsai.jupyter",
+				"ms-toolsai.vscode-jupyter-slideshow",
+				"ms-toolsai.jupyter-renderers",
+				"ms-toolsai.vscode-jupyter-cell-tags",
+				"ms-toolsai.jupyter-keymap",
+				"ms-python.vscode-pylance",
+				"ms-python.python",
+				"formulahendry.code-runner",
+				"seatonjiang.gitmoji-vscode",
+				"esbenp.prettier-vscode"
+			]
+		}
+	}
+
+}
