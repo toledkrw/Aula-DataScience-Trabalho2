@@ -22,7 +22,5 @@
 			]
 		}
 	},
-	"postCreateCommand": "poetry install",
-	"postAttachCommand": "poetry shell"
-
+	"postCreateCommand": "poetry shell && poetry install && exit"
 }
