@@ -18,9 +18,10 @@
 				"ms-python.python",
 				"formulahendry.code-runner",
 				"seatonjiang.gitmoji-vscode",
-				"esbenp.prettier-vscode"
+				"esbenp.prettier-vscode",
+				"ms-python.autopep8"
 			]
 		}
-	}
-
+	},
+	"postCreateCommand": "poetry shell && poetry install && exit"
 }
