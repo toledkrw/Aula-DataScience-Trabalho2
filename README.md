@@ -52,7 +52,7 @@ The application has the following functionality:
 
 ### 🛠️ Simple Analysis
 
-The [main.ipynb](https://github.com/toledkrw/Aula-DataScience-Trabalho2/blob/main/src/main.ipynb) has some analysis that answer inquired questions for this work.
+The [main.ipynb](https://github.com/toledkrw/Aula-DataScience-Trabalho2/blob/main/src/main.ipynb) contains analyses that address the posed questions for this project.
 
 <br/>
 
