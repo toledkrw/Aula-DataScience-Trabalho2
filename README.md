@@ -51,13 +51,9 @@ This project was created to perform a data transformation and data analysis with
 ## 🎨 Features
 The application has the following functionality:
 
+### 🛠️ Simple Analysis
 
-
-### 🛠️ 
-
-#### Example:
-
-
+The [main.ipynb](main.ipynb-url) has some analysis that answer inquired questions for this work.
 
 <br/>
 
@@ -68,8 +64,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <br/>
 
 ## 🧻 TODOs
-- [X]
-- [ ]
+- [X] 1 - Make a descriptive analysis of the columns.
+- [X] 2 - Display the data types of each column.
+- [X] 3 - Check for empty values, if any, fill them with the mean.
+- [X] 4 - Answer: Which teams scored the most goals?
+- [X] 5 - Answer: Which teams had the most assists?
+- [X] 6 - Answer: Which teams had the highest total number of goal attempts?
+- [X] 7 - Present graphs for questions 4, 5, and 6 with a limit of 5 selections.
 
 <!-- ASSETS -->
 
@@ -106,4 +107,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- BADGE - DevContainer -->
 [DevContainers]: https://img.shields.io/badge/Dev%20Containers-73059e.svg?style=for-the-badge&logo=linuxcontainers&logoColor=white
-[DevContainers-url]:https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
+[DevContainers-url]: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
+
+
+<!--  -->
+<!-- LINKS -->
+<!--  -->
+[main.ipynbfile-url]: https://github.com/toledkrw/Aula-DataScience-Trabalho2/blob/main/src/main.ipynb
