@@ -21,12 +21,11 @@ This project was created to perform a data transformation and data analysis with
 
 [![VsCode][VsCode]][VsCode-url]
 
-### 🤖 Technologies used
+### 🤖 Technologies Used
 
 [![Python][Python]][Python-url]
 [![Docker][Docker]][Docker-url]
 [![DevContainers][DevContainers]][DevContainers-url]
-
 
 ### 📋 Pre-requisites
 
@@ -35,15 +34,15 @@ This project was created to perform a data transformation and data analysis with
 
 <br/>
 
->💡Attention
+>💡 Attention
 >
-> This project uses Docker Dev Containers, which means everything runs within containers and you must have docker installed. 
+>This project employs Docker Dev Containers, ensuring that all operations occur within containers. Therefore, it is imperative to have Docker installed on your system.
 >
-> Its highly recommended to use VsCode, as you can use the MS Dev Container plugin to ease the connection to the development environment. Please, make sure to install Docker and, as recommendation, the VsCode's Dev Containers plugin.
+>It is highly recommended to utilize Visual Studio Code (VsCode), as the MS Dev Container plugin facilitates seamless integration with the development environment. Please ensure that you have Docker installed and consider installing the VsCode Dev Containers plugin for an enhanced experience.
 >
-> Since we're using Docker and Dev Containers, there's no need to install Python directly in your machine. This project's Dev Container is already configured to install Python, Poetry as well as every dependency needed within itself.
-> 
-> Lay back and let the informagic do it's thing.
+>Since Docker and Dev Containers are in use, there is no need to directly install Python on your local machine. The Dev Container for this project is preconfigured to install Python, Poetry, and all necessary dependencies internally.
+>
+>Sit back and let the informagic work its magic.
 
 
 <br/>
