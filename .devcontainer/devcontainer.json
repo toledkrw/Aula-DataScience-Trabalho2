@@ -21,6 +21,8 @@
 				"esbenp.prettier-vscode"
 			]
 		}
-	}
+	},
+	"postCreateCommand": "poetry install",
+	"postAttachCommand": "poetry shell"
 
 }
